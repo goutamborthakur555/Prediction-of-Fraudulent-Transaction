@@ -1,4 +1,4 @@
-# Prediction of Fraudulent Transaction for Bank
+# Prediction of Fraudulent Transaction
 
 **Objective:** To build a model to predict the fraudulent transaction, so that we can stop payment of such transaction and save customer money.
 
